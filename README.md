@@ -1,6 +1,6 @@
 # Cybersecurity
 
-## ✅ Security & API Protection Checklist
+## ✅ Security & API Protection Checklist(Type x inside [ ], to mark complete)
 
 ### 1️⃣ Data
 - [ ] Use API data flow  
